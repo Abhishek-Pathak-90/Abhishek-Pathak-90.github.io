@@ -100,16 +100,39 @@ body {
     display: flex;
     justify-content: center;
     gap: 1.5rem;
+    margin-top: 2rem;
 }
 
 .social-links a {
     color: var(--text-color);
-    font-size: 1.5rem;
-    transition: color 0.3s ease;
+    font-size: 1.8rem;
+    transition: all 0.3s ease;
+    padding: 0.5rem;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .social-links a:hover {
     color: var(--accent-color);
+    transform: translateY(-3px);
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.social-links a[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: -2rem;
+    font-size: 0.8rem;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 0.3rem 0.8rem;
+    border-radius: 4px;
+    white-space: nowrap;
 }
 
 /* Projects Section */
