@@ -1,39 +1,35 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website, showcasing my projects and skills. The site is built with modern HTML, CSS, and JavaScript, featuring:
-
-- 🎨 Modern, responsive design
-- 🌙 Dark theme
-- 📊 Dynamic GitHub repository integration
-- 💼 Project showcase
-- 🎯 Skills & expertise section
-- 📱 Mobile-friendly layout
+A modern, responsive portfolio website showcasing my work as an Accelerator Physicist and Software Developer. Built with HTML5, CSS3, and JavaScript.
 
 ## Features
 
-- Automatic repository fetching from GitHub
-- Smooth scrolling navigation
-- Responsive design for all devices
-- Project cards with repository stats
-- Skills categorization
-- Contact section with social links
+- 🎯 Dynamic GitHub Repository Integration
+- 💻 Responsive Design for All Devices
+- 🌙 Modern Dark Theme Interface
+- 🔧 Interactive Project Showcase
+- 📊 Skills and Expertise Display
+- 📱 Social Media Integration
 
 ## Technologies Used
 
-- HTML5
-- CSS3 (with CSS Variables)
-- JavaScript (ES6+)
-- GitHub API
-- Font Awesome Icons
-- Google Fonts
+- HTML5 for Structure
+- CSS3 for Styling
+- JavaScript for Interactivity
+- GitHub API for Repository Integration
+- Font Awesome for Icons
 
-## Local Development
+## Projects Showcase
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Make changes as needed
-4. Push changes to deploy
+Features my work in:
+- Particle Accelerator Physics
+- Beam Dynamics Simulation
+- Machine Learning Integration
+- Scientific Software Development
 
-## Visit the Site
+## Contact
 
-The site is live at: [https://Abhishek-Pathak-90.github.io](https://Abhishek-Pathak-90.github.io)
+Feel free to reach out:
+- LinkedIn: [Abhishek Pathak](https://www.linkedin.com/in/abhishek-pathak-b870778a/)
+- GitHub: [@Abhishek-Pathak-90](https://github.com/Abhishek-Pathak-90)
+- Email: walkwithtime@gmail.com
